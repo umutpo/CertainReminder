@@ -15,5 +15,6 @@ After installing the repository on your computer,
 - Currently the startup app feature only works in Windows 10
 
 ## TODOs
-- Remove Python dependency for startup script
+- Implement the startup app feature for other platforms
+- Remove Python dependency for startup script and convert it into an executable
 - Implement stand-alone GUI for convenience
