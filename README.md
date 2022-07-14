@@ -4,8 +4,11 @@ that appears on top of every window to ensure that you don't miss :)
 
 ## How to Run
 After installing the repository on your computer, 
-- You can run `app.exe` found in this folder to run the program OR
-- You can run `python startup_script.py` command on a terminal or a command prompt to have the app run every time you boot up
+- Windows: 
+    - You can run `app.exe` found in this folder to run the program OR
+    - You can run `python startup_script.py` command on a terminal or a command prompt to have the app run every time you boot up
+- Linux/MacOS:
+    - You can run `python app.py` found in this folder to run the program
 
 ## Known Bugs
 - Does not work as expected for the reminders that are set for the next day
